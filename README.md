@@ -73,7 +73,8 @@ A360 OS orchestre, il ne recopie pas. Chaque information a un seul propriétaire
 ## En chiffres
 
 - 20 audits d'entreprises préparés chaque nuit.
-- Coût IA : 8 à 12 € par mois, plafonné.
+- Coût IA plafonné : 8 € par mois pour Radar 360, 4 € pour A360 OS.
+- Environ 5 minutes de relecture chaque matin.
 - Plus de 15 h gagnées par semaine (estimation basse). Avant : jusqu'à 1 h pour un e-mail, 2 h pour se renseigner sur une entreprise.
 
 ## À propos
